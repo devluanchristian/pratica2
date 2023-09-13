@@ -8,3 +8,4 @@ export const MovieModel = mongoose.model('Movie', {
     imagem: String,
     categorias: Array
 })
+
